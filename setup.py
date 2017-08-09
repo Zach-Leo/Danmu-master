@@ -17,7 +17,7 @@ setup(
 
     long_description=long_description,
 
-    url='https://github.com/littlecodersh/danmu',
+    url='https://github.com/Zach-Leo/Danmu-master',
 
     author='LittleCoder',
     author_email='i7meavnktqegm1b@qq.com',
